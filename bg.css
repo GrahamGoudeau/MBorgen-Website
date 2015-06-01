@@ -1,0 +1,32 @@
+html {
+    background: url(http://welovedexter.com/wp-content/uploads/IMG_7416.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+body {
+    background-color: #ebebeb;
+background-image: url(http://www.transparenttextures.com/patterns/ag-square.png);
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+background-color: #4d4d4d;
+background-image: url(http://www.transparenttextures.com/patterns/billie-holiday.png);
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+/*background: url(black-paper.png) repeat 0 0;*/
+background-color: #ffffcc;
+background-image: url(http://www.transparenttextures.com/patterns/blizzard.png);
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+background: url(http://welovedexter.com/wp-content/uploads/IMG_7416.jpg) no-repeat center;
+background-size: cover;
+-webkit-background-size: cover !important;
+-moz-background-size: cover !important;
+-o-background-size: cover !important;
+min-height: 100% !important;
+min-width: 100% !important;
+}
+
+.jumbotron {
+    color: white;
+    background: rgba(30,30,30,0.75);
+}
